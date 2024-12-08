@@ -32,7 +32,7 @@ actions:
       - maliit-keyboard
       - sddm-theme-debian-breeze
       - kwin-wayland
-      - plasma-workspace-wayland
+      - plasma-workspace
       - firefox-esr
       - drihybris
 
