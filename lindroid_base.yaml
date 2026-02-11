@@ -30,7 +30,6 @@ actions:
       - create-disp
       - libgbm-hybris
       - libhybris
-      - libhybris-test
       - lindroid-quirks
       - nano
       - strace
